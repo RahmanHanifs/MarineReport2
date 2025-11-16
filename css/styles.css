@@ -19,8 +19,9 @@ body {
     left: 50%;
     transform: translateX(-50%);
     margin: 0;
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0.5px
 }
 
 .container {
