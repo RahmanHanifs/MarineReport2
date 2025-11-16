@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100, 5]
+      },
+      "properties": {
+        "description": "Peta Batimetri MSL WPP-RI 571",
+        "owner": "Zanugera Alamsyah",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/u/3/folders/1hMXbXL0lXSpbDNXyNkeJuwcJTY0i5BvS",
+        "email": "database.register1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100, 6]
+      },
+      "properties": {
+        "description": "Peta Batimetri MSL WPP-RI 572",
+        "owner": "Zanugera Alamsyah",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/u/3/folders/1hMXbXL0lXSpbDNXyNkeJuwcJTY0i5BvS",
+        "email": "database.register1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110, -10]
+      },
+      "properties": {
+        "description": "Peta Batimetri MSL WPP-RI 573",
+        "owner": "Zanugera Alamsyah",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/u/3/folders/1hMXbXL0lXSpbDNXyNkeJuwcJTY0i5BvS",
+        "email": "database.register1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107, 2]
+      },
+      "properties": {
+        "description": "Peta Batimetri MSL WPP-RI 711",
+        "owner": "Zanugera Alamsyah",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/u/3/folders/1hMXbXL0lXSpbDNXyNkeJuwcJTY0i5BvS",
+        "email": "database.register1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110, -5]
+      },
+      "properties": {
+        "description": "Peta Batimetri MSL WPP-RI 712",
+        "owner": "Zanugera Alamsyah",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/u/3/folders/1hMXbXL0lXSpbDNXyNkeJuwcJTY0i5BvS",
+        "email": "database.register1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118, -5]
+      },
+      "properties": {
+        "description": "Peta Batimetri MSL WPP-RI 713",
+        "owner": "Zanugera Alamsyah",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/u/3/folders/1hMXbXL0lXSpbDNXyNkeJuwcJTY0i5BvS",
+        "email": "database.register1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126, -6]
+      },
+      "properties": {
+        "description": "Peta Batimetri MSL WPP-RI 714",
+        "owner": "Zanugera Alamsyah",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/u/3/folders/1hMXbXL0lXSpbDNXyNkeJuwcJTY0i5BvS",
+        "email": "database.register1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126, 0]
+      },
+      "properties": {
+        "description": "Peta Batimetri MSL WPP-RI 715",
+        "owner": "Zanugera Alamsyah",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/u/3/folders/1hMXbXL0lXSpbDNXyNkeJuwcJTY0i5BvS",
+        "email": "database.register1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [125, 3]
+      },
+      "properties": {
+        "description": "Peta Batimetri MSL WPP-RI 716",
+        "owner": "Zanugera Alamsyah",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/u/3/folders/1hMXbXL0lXSpbDNXyNkeJuwcJTY0i5BvS",
+        "email": "database.register1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135, 0]
+      },
+      "properties": {
+        "description": "Peta Batimetri MSL WPP-RI 717",
+        "owner": "Zanugera Alamsyah",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/u/3/folders/1hMXbXL0lXSpbDNXyNkeJuwcJTY0i5BvS",
+        "email": "database.register1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135, 5]
+      },
+      "properties": {
+        "description": "Peta Batimetri MSL WPP-RI 718",
+        "owner": "Zanugera Alamsyah",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/u/3/folders/1hMXbXL0lXSpbDNXyNkeJuwcJTY0i5BvS",
+        "email": "database.register1@gmail.com"
+      }
+    },
+  ]
+}

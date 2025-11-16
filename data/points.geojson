@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.1052, -9.6187]
+      },
+      "properties": {
+        "description": "Whale Migration Ecological Pinch Points",
+        "title": "Modelling Migratory Pinch Points and Connectivity of Pygmy Blue Whale Using Circuit Theory: A Case Study of Savu Sea, Indonesia",
+        "DOI": "https://doi.org/10.14710/ik.ijms.30.2.174-182",
+        "research date": "2022-08-10",
+        "owner": "Shulhan",
+        "data availability": "Upon reasonable request to the author. Dummy link: https://drive.google.com/drive/folders/1V3wd0quzUAldLPJXMlcOwWqXXYoUX9h9",
+        "email": "shulhanj@alumni.undip.ac.id",
+        "categories": ["Ecology And Biota"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.6876, -6.8536]
+      },
+      "properties": {
+        "description": "In-situ chlorophyll data",
+        "title": "Emerging Pollutions From Small‐Scale Industries and Chlorophyll‐a as a Eutrophication Indicator in Pekalongan Waters Using Hydrodynamic Modeling",
+        "DOI": "http://dx.doi.org/10.1002/tqem.70134",
+        "owner": "Kunarso Kunarso, Muhammad Zainuri, Shafa Nur Fadhillah, Dwi Haryo Ismunarti, Baskoro Rochaddi, Adzkia Fara Ananda, Anindita Rahma Candrasekar, Muhammad Nur Al Fajrin, Nadien Pratiwi, Erlinda Sofiani Levina, Afroh Amalya, Alisha Khansa Agnadiva, Muhammad Shulhan Jihadi",
+        "data availability": "Upon reasonable request to the author",
+        "email": "shulhanj@alumni.undip.ac.id",
+        "categories": ["Marine Pollution","Chemistry","Ecology And Biota"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.6553, -6.842]
+      },
+      "properties": {
+        "description": "In-situ TSS & chlorophyll data",
+        "title": "Unraveling Coastal Pollution: The Hidden Threats to Pekalongan's Estuarine Ecosystem",
+        "DOI": "http://dx.doi.org/10.1002/tqem.70133",
+        "owner": "Denny Nugroho Sugianto, Muhammad Helmi, Anindita Rahma Candrasekar, Afidhah Puspita Widyani, Muhammad Zainuri, Felia Iranda, Sugeng Widada, Baskoro Rochaddi, Erlinda Sofiani Levina, Shafa Nur Fadhillah, Afroh Amalya, Alisha Khansa Agnadiva, Afif Ahmad Febrilian, Ariel Oscar Paskario Simatupang, Hajar Afifah, Felix Gok Asi Simangunsong, Muhammad Shulhan Jihadi",
+        "data availability": "Upon reasonable request to the author",
+        "email": "shulhanj@alumni.undip.ac.id",
+        "categories": ["Sediment","Marine Pollution","Ecology And Biota"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.6976, -6.8536]
+      },
+      "properties": {
+        "description": "In-situ TSS, Nitrate, Phospate data",
+        "title": "Influence of Embankment Construction on Oceanographic Parameters and Emerging Pollutant Dynamics in Pekalongan Waters, Central Java",
+        "DOI": "http://dx.doi.org/10.1002/tqem.70125",
+        "owner": "Muhammad Helmi, Denny Nugroho Sugianto, Afidhah Puspita Widyani, Anindita Rahma Candrasekar, Muhammad Zainuri, Rayhan Arif Ferdian, Sugeng Widada, Baskoro Rochaddi, Fina Nafiaatur Rofiqoh, Mario Marto Naldo Sitanggang, Yvetty Zilla Durhan, Kirana Adhiningtyas Swasty Ratu, Muhammad Shulhan Jihadi",
+        "data availability": "Upon reasonable request to the author",
+        "email": "shulhanj@alumni.undip.ac.id",
+        "categories": ["Marine Pollution","Chemistry","Sediment"]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.52295, -6.77278]
+      },
+      "properties": {
+        "description": "In-situ chlorophyll data",
+        "title": "Determination of chlorophyll-a and its distribution in the waters of the mangrove forest rehabilitation area in Mojo Estuaria, Pemalang",
+        "DOI": "http://dx.doi.org/10.14710/jkt.v27i2.23253",
+        "owner": "Galung Dhiva Maharani, Agus Indarjo, Tony Hadibarata, Muhammad Zainuri, Hadi Endrawati, Sri Redjeki, Rudhi Pribadi, Baskoro Rochaddi, Aris Ismanto, Muhammad Shulhan Jihadi",
+        "data availability": "Upon reasonable request to the author",
+        "email": "shulhanj@alumni.undip.ac.id",
+        "categories": ["Ecology And Biota","Chemistry"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.66584, -6.85697]
+      },
+      "properties": {
+        "description": "In-situ nitrate data",
+        "title": "Geospatial Modeling of the Nitrate Distribution as an Indicator of Aquatic Fertility in the Lagoon Waters of the Mangrove Information Center (PIM), Pekalongan",
+        "DOI": "http://dx.doi.org/10.14710/jkt.v27i3.24081",
+        "owner": "Muhammad Zainuri, Oda Gracia Ariela Suryani, Aris Ismanto, Gentur Handoyo, Azis Rifai, Baskoro Rochaddi, Hadi Endrawati, Hermin Pancasakti Kusumaningrum, Muhammad Shulhan Jihadi, Tony Hadibarata",
+        "data availability": "Upon reasonable request to the author",
+        "email": "shulhanj@alumni.undip.ac.id",
+        "categories": ["Chemistry","Ecology And Biota"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.68584, -6.55697] 
+      },
+      "properties": {
+        "description": "In-situ chlorophyll data",
+        "title": "Variasi Temporal Material Padatan Tersuspensi Menggunakan Citra Sentinel di Muara Sungai Loji Pekalongan",
+        "DOI": "https://doi.org/10.14710/ijoce.v7i2.26247",
+        "owner": "Ariel Oscar Paskario Simatupang, Anindya Wirasatriya, Lilik Maslukah, Muhammad Zainuri, Arij Kemala Yasmin Ridarto, Muhammad Shulhan Jihadi, Kunarso Kunarso",
+        "data availability": "Upon reasonable request to the author",
+        "email": "shulhanj@alumni.undip.ac.id",
+        "categories": ["Chemistry","Ecology And Biota"]
+      }
+    }
+  ]
+}

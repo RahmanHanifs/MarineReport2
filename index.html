@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Marine Report Test</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+
+<body>
+  <div class="container">
+    <div class="logo-group">
+      <img src="img/undip.png" alt="Logo Undip" width="65" height="50">
+      <img src="img/register.jpg" alt="Logo Register" width="45" height="45">
+      <img src="img/marpot logo.png" alt="Logo Marpot" width="60" height="">
+    </div>
+    <h3 class="header-title">Marine Geoportal</h3>
+  </div>
+
+
+  <div id="filterInline" class="filter-inline">
+    <button id="openSidebar" class="toggle-btn" title="Buka filter">☰ Filter</button>
+    <input id="categorySearch" class="category-search" type="text" placeholder="Cari kategori..." />
+  </div>
+  
+  <div id="sidebar-container"></div>
+
+  <div id="map"></div>
+  <footer class="footer">
+    <div class="footer-content">
+      <span class="footer-item">
+        <span class="footer-icon">🏠</span>
+        <span>Jl. Gondang Timur IV No. 50, RT 04/RW 01, Bulusan, Tembalang, Semarang</span>
+      </span>
+  
+      <span class="footer-item">
+        <span class="footer-icon">📞</span>
+        <span>WA:</span>
+        <a href="https://wa.me/6283865131284" target="_blank">083865131284</a>
+        <span>(Dava)</span>
+      </span>
+  
+      <span class="footer-item">
+        <span class="footer-icon">🌐</span>
+        <a href="https://www.registerundip.org" target="_blank">www.registerundip.org</a>
+      </span>
+  
+      <span class="footer-item">
+        <span class="footer-icon">✉️</span>
+        <a href="mailto:registerundip@gmail.com">registerundip@gmail.com</a>
+      </span>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="js/sidebar.js"></script>
+  <script src="js/app.js"></script>
+</body>
+
+</html>
